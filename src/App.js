@@ -7,7 +7,7 @@ function App() {
   const [tasks, setTasks] = useState([
     {
       id: 1,
-      text: 'anisha'
+      text: 'You can add your tasks here..'
 
     } 
   ]);
